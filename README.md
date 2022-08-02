@@ -7,11 +7,11 @@ Developer who are always thinking about apps that are intuitive and easy to use
 
 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0052CC?style=round-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=round-square&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0052CC?style=round-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=round-square&logo=CocoaPods&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=round-square&logo=Firebase&logoColor=white"/>
 
 💪🏼 Tools
 
-<img src="https://img.shields.io/badge/Github-181717?style=round-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=round-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=round-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/>
 
 🐱 About Me
 
