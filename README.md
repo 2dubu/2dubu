@@ -1,4 +1,4 @@
-## Hi there, I'm Geonwoo Lee 👋🏻
+### Hi there, I'm Geonwoo Lee 👋🏻
 <!--
 ** iOS Developer / Cat lover**
 
