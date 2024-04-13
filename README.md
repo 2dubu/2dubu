@@ -1,4 +1,12 @@
-### Hi there, I'm Geonwoo Lee 👋🏻
+### Hello, I'm Geonwoo Lee, a Software Engineer.
+
+Recently, interested in iOS   
+For Coffee Chat, please contact email or [LinkedIn](www.linkedin.com/in/2dubu).  
+If you would like to know more about me, refer to my [portfolio](2dubu.notion.site).  
+
+Thank you for visiting my github profile. Have a nice day! ☺️
+
+
 <!--
 ** iOS Developer / Cat lover**
 
