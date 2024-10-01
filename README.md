@@ -6,6 +6,13 @@ If you would like to know more about me, refer to my [portfolio](https://2dubu.n
 
 Thank you for visiting my github profile. Have a nice day! ☺️
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/2dubu?pet-id=628929984988807099"
+    width="600"
+    height="120"
+  />
+</a>
 
 <!--
 ** iOS Developer / Cat lover**
