@@ -15,10 +15,12 @@ Thank you for visiting my github profile. Have a nice day! ☺️
 </a>
 
 ### Experiences
-- NEXTERS 26기 iOS Developer <sub> 2025.01 ~ now</sub>
+- 여기어때컴퍼니 iOS Developer Intern <sub> 2025.03 ~ now</sub>
+- NEXTERS 26기 iOS Developer <sub> 2025.01 ~ 2025.02</sub>
 - [GDG on Campus: KHU](https://gdg.community.dev/gdg-on-campus-kyunghee-university-yongin-south-korea/) Mobile Part Lead <sub> 2024.09 ~ now</sub>
 - UMC 6기 iOS Challenger <sub> 2024.04 ~ 2024.08</sub>
 - DDD 8기 iOS Developer <sub> 2022.10 ~ 2023.02</sub>
+- Sefy.Ltd iOS Developer <sub> 2022.08 ~ 2022.11</sub>
 
 ### Awards
 - SW중심대학 연합 SW Festival 장려상 <sub>2024.11</sub>
