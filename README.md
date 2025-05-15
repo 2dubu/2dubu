@@ -22,6 +22,7 @@ Thank you for visiting my github profile. Have a nice day! ☺️
 - [당신의 완벽한 스터디 메이트, BBIP](https://apps.apple.com/kr/app/bbip/id6670203690)  
   - 대학생 & 취준생을 위한 Slack, Notion보다는 가볍지만 확실한 그룹 스터디 보조 서비스
   - iOS Developer, Project 기획
+  - AppStore 차트(잡지 및 신문) 최고 5위
 
 ## Experiences 🏃🏻
 - [NEXTERS](https://nexters.co.kr/) 26기 iOS Developer <sub> 2025.01 ~ 2025.02</sub>
