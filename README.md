@@ -20,6 +20,7 @@ Thank you for visiting my github profile. Have a nice day! ☺️
   - 여기어때 로그인/회원가입 YDS 6.0 Refine
   - YDS(Yeogi Design System) SwiftUI 전환
   - BoilerPlate Code 생성 자동화 환경 구축 - [여기어때 기술블로그](https://techblog.gccompany.co.kr/%ED%95%9C-%EC%A4%84%EB%A1%9C-%EB%81%9D%EB%82%B4%EB%8A%94-ios-%ED%99%94%EB%A9%B4-%EC%83%9D%EC%84%B1-scaffold-makefile-fa1f7e75aef2)
+  - Jenkins-Jira 자동화로 QA 프로세스 약 30% 단축
 
 ## Project  🐥
 - [당신의 완벽한 스터디 메이트, BBIP](https://apps.apple.com/kr/app/bbip/id6670203690)  
@@ -37,6 +38,7 @@ Thank you for visiting my github profile. Have a nice day! ☺️
 - [UMC](https://umc.makeus.in/) 6기 iOS Challenger <sub> 24.04 ~ 24.08</sub>
 - DDD 8기 iOS Developer <sub> 22.10 ~ 23.02</sub>
 
+<!--
 ## Awards  🏆
 - SW중심대학 연합 SW Festival 장려상 <sub>24.11</sub>
 - KHU 제3회 예술적인 소프트웨어 기업특별상 <sub>24.10</sub>
@@ -44,3 +46,4 @@ Thank you for visiting my github profile. Have a nice day! ☺️
 - 제8회 HighThon 대상 <sub>23.01</sub>
 - 제22회 STAC APPJAM 우수상 <sub>22.12</sub>
 - 제21회 STAC APPJAM 최우수상 <sub>22.08</sub>
+-->
