@@ -15,7 +15,7 @@ Thank you for visiting my github profile. Have a nice day! ☺️
 </a>
 
 ## Career  🧳
-- **여기어때컴퍼니 iOS 인턴  <sub> 25.03 ~ now</sub>**
+- **여기어때컴퍼니 iOS 인턴  <sub> 25.03 ~ 25.08</sub>**
 
   - 여기어때 로그인/회원가입 YDS 6.0 Refine
   - YDS(Yeogi Design System) SwiftUI 전환
@@ -34,12 +34,13 @@ Thank you for visiting my github profile. Have a nice day! ☺️
 
 ## Experiences  🏃🏻
 - [NEXTERS](https://nexters.co.kr/) 26기 iOS Developer <sub>25.01 ~ 25.02</sub>
-- [GDG on Campus: KHU](https://gdg.community.dev/gdg-on-campus-kyunghee-university-yongin-south-korea/) Mobile Part Lead <sub> 24.09 ~ now</sub>
+- [GDG on Campus: KHU](https://gdg.community.dev/gdg-on-campus-kyunghee-university-yongin-south-korea/) Mobile Part Lead <sub> 24.09 ~ 25.08</sub>
 - [UMC](https://umc.makeus.in/) 6기 iOS Challenger <sub> 24.04 ~ 24.08</sub>
 - DDD 8기 iOS Developer <sub> 22.10 ~ 23.02</sub>
 
 <!--
 ## Awards  🏆
+- SW중심대학 디지털 경진대회 정보통신기획평가원장상(최우수상) <sub>25.08</sub>
 - SW중심대학 연합 SW Festival 장려상 <sub>24.11</sub>
 - KHU 제3회 예술적인 소프트웨어 기업특별상 <sub>24.10</sub>
 - 6th UMC Demo Day 최우수상 <sub>24.08</sub>
