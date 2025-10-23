@@ -6,6 +6,7 @@ If you would like to know more about me, refer to my [portfolio](https://2dubu.n
 
 Thank you for visiting my github profile. Have a nice day! ☺️
 
+<!--
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/2dubu"
@@ -13,7 +14,9 @@ Thank you for visiting my github profile. Have a nice day! ☺️
   height="200"
 />
 </a>
+-->
 
+<!--
 ## Career  🧳
 - **여기어때컴퍼니 iOS 인턴  <sub> 25.03 ~ 25.08</sub>**
 
@@ -22,7 +25,9 @@ Thank you for visiting my github profile. Have a nice day! ☺️
   - Boilerplate Code 생성 자동화 환경 구축 (2025.06 - 2025.07) - [여기어때 기술블로그](https://techblog.gccompany.co.kr/%ED%95%9C-%EC%A4%84%EB%A1%9C-%EB%81%9D%EB%82%B4%EB%8A%94-ios-%ED%99%94%EB%A9%B4-%EC%83%9D%EC%84%B1-scaffold-makefile-fa1f7e75aef2)
   - 여기어때 로그인/회원가입 YDS 6.0 Refine (2025.04 - 2025.06)
   - YDS(Yeogi Design System) SwiftUI 전환 (2025.03 - 2025.04)
+-->
 
+<!--
 ## Project  🐥
 - [당신의 완벽한 스터디 메이트, BBIP](https://apps.apple.com/kr/app/bbip/id6670203690)  
   - 대학생 & 취준생을 위한 Slack, Notion보다는 가볍지만 확실한 그룹 스터디 보조 서비스
@@ -38,6 +43,7 @@ Thank you for visiting my github profile. Have a nice day! ☺️
 - [GDG on Campus: KHU](https://gdg.community.dev/gdg-on-campus-kyunghee-university-yongin-south-korea/) Mobile Part Lead <sub> 24.09 ~ 25.08</sub>
 - [UMC](https://umc.makeus.in/) 6기 iOS Challenger <sub> 24.04 ~ 24.08</sub>
 - DDD 8기 iOS Developer <sub> 22.10 ~ 23.02</sub>
+-->
 
 <!--
 ## Awards  🏆
