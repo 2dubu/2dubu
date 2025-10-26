@@ -2,7 +2,9 @@
 
 Recently, I'm interested in iOS   
 For Coffee Chat, please contact email or [LinkedIn](https://www.linkedin.com/in/2dubu).  
+<!--
 If you would like to know more about me, refer to my [portfolio](https://2dubu.notion.site/).  
+-->
 
 Thank you for visiting my github profile. Have a nice day! ☺️
 
