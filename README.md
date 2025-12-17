@@ -20,9 +20,9 @@ Thank you for visiting my github profile. Have a nice day! ☺️
 
 
 ## Career  🧳
-- **당근 iOS 인턴 <sub> 25.12 ~ now</sub>**
+- **당근 iOS Developer 인턴 <sub> 25.12 ~ now</sub>**
 
-- **여기어때컴퍼니 iOS 인턴  <sub> 25.03 ~ 25.08</sub>**
+- **여기어때컴퍼니 iOS Developer 인턴  <sub> 25.03 ~ 25.08</sub>**
   - 여기어때 해외숙소 프로모션 구현 (2025.07 - 2025.08)
   - Jenkins-Jira 자동화를 통한 QA 프로세스 약 50% 단축 (2025.06 - 2025.07)
   - Boilerplate Code 생성 자동화 환경 구축 (2025.06 - 2025.07) - [여기어때 기술블로그](https://techblog.gccompany.co.kr/%ED%95%9C-%EC%A4%84%EB%A1%9C-%EB%81%9D%EB%82%B4%EB%8A%94-ios-%ED%99%94%EB%A9%B4-%EC%83%9D%EC%84%B1-scaffold-makefile-fa1f7e75aef2)
